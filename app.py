@@ -3,7 +3,7 @@ import streamlit.components.v1 as components
 
 st. set_page_config(layout="wide")
 
-st.sidebar.image("https://www.nicepng.com/png/detail/40-401039_people-counting-from-v-count-crowd-of-people.png", width=100)
+st.sidebar.image("https://www.microlog.it/wp-content/uploads/2018/11/icona_soluz_contapersone_col.png", width=100)
 st.sidebar.subheader("About Crowd Counting Model")
 st.sidebar.markdown("##### An end-to-end trainable deep architecture that combines features obtained using multiple receptive field sizes and learns the importance of each such feature at each image location")
 st.sidebar.markdown("##### The approach adaptively encodes the scale of the contextual information required to accurately predict crowd density")
