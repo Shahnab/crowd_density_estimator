@@ -9,10 +9,10 @@ st.sidebar.markdown("##### An end-to-end trainable deep architecture that combin
 st.sidebar.markdown("##### The approach adaptively encodes the scale of the contextual information required to accurately predict crowd density")
 st.sidebar.markdown("##### This yields an algorithm that outperforms state-of-the-art crowd counting methods, especially when perspective effects are strong")
 
-st.sidebar.markdown("##### Context-Aware Network Model")
+st.sidebar.subheader("Context-Aware Network Model")
 st.sidebar.image("model.png")
 
-st.sidebar.markdown("##### Crowd Density Estimation")
+st.sidebar.subheader("Crowd Density Estimation")
 st.sidebar.image("prediction.png")
 
 
