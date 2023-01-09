@@ -16,7 +16,7 @@ st.sidebar.subheader("Crowd Density Estimation")
 st.sidebar.image("prediction.png")
 
 
-st.sidebar.caption("How to use the App (Demo Video)- [link](https://aclanthology.org/2021.acl-long.340.pdf)")
+st.sidebar.caption("How to use the App (Demo Video)- [link](https://youtu.be/T8Nr5ajhd6Y)")
 st.sidebar.caption("App by </Shahnab>")
 
 st.subheader("Crowd Counting Estimator Engine")
